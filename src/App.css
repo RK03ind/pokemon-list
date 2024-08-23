@@ -16,3 +16,7 @@ input:focus {
   outline: none;
   border-color: #007bff;
 }
+
+h2 {
+  margin-top: 4rem;
+}
